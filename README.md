@@ -17,8 +17,8 @@ API runs at: http://localhost:8080
 ```
 
 ## API Endpoints
--GET /books → get all books
--GET /books/{id} → get book by id
--POST /books → add new book
--PUT /books/{id} → update book
--DELETE /books/{id} → delete book
+- GET /books → get all books
+- GET /books/{id} → get book by id
+- POST /books → add new book
+- PUT /books/{id} → update book
+- DELETE /books/{id} → delete book
