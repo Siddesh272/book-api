@@ -14,9 +14,9 @@ git clone https://github.com/your-username/book-api.git
 cd book-api
 mvn spring-boot:run
 API runs at: http://localhost:8080
+```
 
 ## API Endpoints
-
 -GET /books → get all books
 -GET /books/{id} → get book by id
 -POST /books → add new book
